@@ -47,3 +47,11 @@ myList.sort()
 
 for i in myList:
     print (i)
+
+myDicts = {'one' : 1, 'two' : 2, 'three' : 3 }
+for key in myDicts:
+    print (key, myDicts[key])
+
+myNums = {1:'Test', 2:'This', 3:'Key'}
+for key in myNums:
+    print (key, myNums[key])
