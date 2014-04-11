@@ -55,3 +55,6 @@ for key in myDicts:
 myNums = {1:'Test', 2:'This', 3:'Key'}
 for key in myNums:
     print (key, myNums[key])
+
+for i in xrange(3,0,-1):
+    print(i)
