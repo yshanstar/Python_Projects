@@ -1,4 +1,5 @@
 import json
+#comment
 class Premiua:
     def __init__(self, table_name, canonical_marketplace_id, gl_product_group_name, fma_version, price_range_coefficient_list):
         self.table_name = table_name
